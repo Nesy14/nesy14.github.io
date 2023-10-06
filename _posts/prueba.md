@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Esto es una prueba
-date: 2023-10-6
+date: 2023-10-06
 classes: wide
 header:
   teaser: /assets/images/slae32.png
