@@ -23,7 +23,7 @@ description              : "Posts about security, CTFs and networking"
 url                      : "https://Nesy14.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Nesy14/nesy14.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/perfiltwitter.jpg"
+logo                     : "/assets/images/Logotransparente.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Nesy14"
-  avatar           : "/assets/images/Logotransparente.png"
+  avatar           : "/assets/images/perfiltwitter.jpg"
   bio              : "Blue Team<br>En un futuro Red Team"
   location         : "España"
   email            : #"info@snowscan.io"
@@ -131,7 +131,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  twitch          :  "https://twitch.tv/Nesy14"
+  twitch          :  "Nesy14"
 
 
 # Reading Files
