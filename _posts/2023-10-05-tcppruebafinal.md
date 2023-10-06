@@ -4,7 +4,10 @@ title: THIS A TEST
 date: 2023-10-05
 classes: wide
 header:
+
   teaser: /assets/images/slae32.png
+  teaser_home_page: true
+  icon: /assets/images/hackthebox.webp
 categories:
   - prueba
 
