@@ -25,6 +25,7 @@ The shellcode does the following:
 ### C prototype
 ---------------
 To better understand the process of creating a bind shellcode, I created a prototype in C that uses the same functions that'll be used in the assembly version. The full code is shown here. We'll walk through each section of the code after.
+![perfiltwitter](https://github.com/Nesy14/nesy14.github.io/assets/139054436/6e80f533-2fd9-4d73-8d71-5bca754589e2)
 
 ```c
 #include <netinet/in.h>
